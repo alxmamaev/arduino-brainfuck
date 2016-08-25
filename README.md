@@ -1,7 +1,15 @@
 # arduino_brainfuck
-Это реализация языка brainfuck для arduino.
+This is brainfuck port on arduino
 
-##Автор
-**Мамаев Александр** ([alxmamaev](https://alxmamaev.github.io/))
-<br>[Вконтакте](https://new.vk.com/alxmamaev)
-<br>alxmamaev@mail.ru 
+##Quick start
+In the sketch there are one function *BrainFuck*. In function you need pass one option - code(chars array). For user input used Seral.read() for user output used Serial.out.
+
+##Warning!
+* Cell in to memory - byte (0-255)
+* Memory size is 255 cells (255 bytes)
+* stack size (maximal nesting loops) is 255
+
+##Author
+**Mamaev Alexander** ([alxmamaev](https://alxmamaev.github.io/))
+<br>[VK](https://new.vk.com/alxmamaev)
+<br>alxmamaev@mail.ru
