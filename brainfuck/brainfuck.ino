@@ -1,3 +1,5 @@
+
+
 void BrainFuck(const char code[]){
   int codeCursor = 0;
   
@@ -48,7 +50,6 @@ void BrainFuck(const char code[]){
           while(code[codeCursor] != ']'){
             codeCursor++;
           }
-          codeCursor++;
         }
         break;
 
@@ -62,4 +63,11 @@ void BrainFuck(const char code[]){
     
     codeCursor++;
   }  
+}
+
+void setup() {
+  BrainFuck("++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.");
+}
+
+void loop() {
 }
