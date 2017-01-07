@@ -14,4 +14,4 @@ In the sketch there are one function *BrainFuck*. In function you need pass one 
 ##Author
 **Mamaev Alexander** ([alxmamaev](https://alxmamaev.github.io/))
 <br>[VK](https://new.vk.com/alxmamaev)
-<br>alxmamaev@mail.ru
+<br>alxmamaev@ya.ru
