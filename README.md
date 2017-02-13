@@ -1,4 +1,4 @@
-# arduino_brainfuck
+# arduino-brainfuck
 This is brainfuck port for arduino
 
 [Russian readme](/README_RU.md)
