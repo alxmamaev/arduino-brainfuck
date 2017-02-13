@@ -1,4 +1,4 @@
-# arduino_brainfuck
+# arduino-brainfuck
 Это порт языка программирования brainfuck на Arduino
 
 ##Быстрый старт
