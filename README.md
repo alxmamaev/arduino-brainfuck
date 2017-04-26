@@ -13,7 +13,7 @@ In the sketch there are one function `BrainFuck`. In function you need pass one 
 
 ## Author
 **Mamaev Alexander** ([alxmamaev](https://alxmamaev.github.io/))
-<br>[VK](https://new.vk.com/alxmamaev)
+<br>[VK](https://vk.com/alxmamaev)
 <br>[Telegram](https://t.me/alxmamaev)
 <br>alxmamaev@ya.ru
 
