@@ -4,7 +4,7 @@ This is brainfuck port for arduino.
 [Russian readme](/README_RU.md)
 
 ## Quick start
-In the sketch there are one function *BrainFuck*. In function you need pass one option - `code([chars array])`. For user input used `Seral.read()`, for user output used `Serial.print()`.
+In the sketch there are one function `BrainFuck`. In function you need pass one option - `code - [chars array]`. For user input used `Seral.read()`, for user output used `Serial.print()`.
 
 ## Warning!
 * Cell in to memory - byte (0-255)
